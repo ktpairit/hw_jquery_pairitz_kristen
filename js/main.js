@@ -1,7 +1,8 @@
 $( document ).ready(function() {
-	var paragraphs = $( 'p' );
+    var paragraphs = $( 'p' );
     paragraphs.css({
         "color": "purple",
-		"lineHeight": 1.5,
-		"font-weight": "lighter" });
+        "lineHeight": 1.5,
+        "font-weight": "lighter"
+    });
 });
